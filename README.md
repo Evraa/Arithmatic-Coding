@@ -1,1 +1,1 @@
-# Arithmatic-Coding
+# Arithmetic-Coding
